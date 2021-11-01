@@ -1,7 +1,7 @@
 {
   "tasks": [
     {
-      "id": "1",
+      "id": 1,
       "name": "Go to the grocery store",
       "done": false
     }
